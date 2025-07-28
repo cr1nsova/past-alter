@@ -2,7 +2,7 @@
 
 **Pasteria** is a modified version of the well-known leaked **Hysteria** LUA script for CS:GO HvH (Hack vs. Hack). This project is based on a deobfuscated and partially encrypted version of **Hysteria 2.2**, with several improvements and custom features.  
 
-If you encounter any issues, feel free to contact the developer on **Discord**.  
+If you encounter any issues, feel free to contact me on **Discord**.  
 
 ---  
 
