@@ -1,13 +1,13 @@
-# **past/alte** - HvH CS:GO LUA Script  
+# **past/alter** - HvH CS:GO LUA Script  
 
-**past/alte** is a modified version of the well-known leaked **Hysteria** LUA script for CS:GO HvH (Hack vs. Hack). This project is based on a deobfuscated and partially encrypted version of **Hysteria 2.2**, with several improvements and custom features.  
+**past/alter** is a modified version of the well-known leaked **Hysteria** LUA script for CS:GO HvH (Hack vs. Hack). This project is based on a deobfuscated and partially encrypted version of **Hysteria 2.2**, with several improvements and custom features.  
 
 If you encounter any issues, feel free to contact me on **Discord**.  
 
 ---  
 
 ## **📌 Overview**  
-past/alte is a fork of **Hysteria 2.2**, rebuilt from a deobfuscated and partially encrypted source. The script has been refined to offer better performance and additional features while maintaining the core functionality of the original.  
+past/alter is a fork of **Hysteria 2.2**, rebuilt from a deobfuscated and partially encrypted source. The script has been refined to offer better performance and additional features while maintaining the core functionality of the original.  
 
 ### **🔹 Key Differences (Hysteria 2.2 vs. pasteria 1.8)**  
 
