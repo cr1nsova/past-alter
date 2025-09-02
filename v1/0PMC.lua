@@ -8,13 +8,13 @@ ___________    _______/  |_  ___________|__|____
 |__|       \/     \/            \/              \/ 
 PMC(mini) for lite2
 --]]
-local pstlogo = true -- false = hysteria, true = pasteria
+local logo = true -- false = hysteria, true = pasteria
 local splashcfg = 3 -- 0 - disable splash, 1 - use Hysteria logo, 2 - use Pasteria V1 intro, 3 - use past/alter intro
 local PlayOnce = true -- false = play splash always at start, true = play splash once in a cheat session
 local SyncCheatAccent = true
 
 return {
-    pstlogo = pstlogo,
+    logo = logo,
     splashcfg = splashcfg,
     PlayOnce = PlayOnce,
     version = version,
