@@ -20,5 +20,3 @@ return {
     version = version,
     SyncCheatAccent = SyncCheatAccent
 }
-
--- if pasteria_cracked then you_will_die_with_me() end
